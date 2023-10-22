@@ -1,0 +1,54 @@
+/* services.css */
+.services {
+    margin: 2rem 0;
+  }
+  
+  .service {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .service h3 {
+    color: #333;
+  }
+  
+  .service p {
+    color: #666;
+  }
+ .text-center{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-left: 350px;
+ }
+ .images__src{
+    object-fit: cover;
+    height:235px;
+    
+ }
+
+ body{
+    /* opacity: 0.7; */
+    object-fit: cover;
+    
+    height: 100%;
+    width: 100%;
+    
+ }
+.card{
+
+    opacity: 0.9;
+    left: 100px;
+}
+.card:hover{
+    background-color: grey;
+    cursor:pointer;
+    animation-duration: 0.5s ease-in;
+
+}
+.cards{
+    /* background-image: url('https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_1280.jpg'); */
+}
+ 
+  
